@@ -26,6 +26,4 @@ In conclusion, the task of big data analysis using PySpark or Dask requires a co
 
 #OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/4ecb476a-98b6-4111-8767-2a69bd6f003a)
-
 ![Image](https://github.com/user-attachments/assets/946f70a9-3966-433c-921e-c142c27083c1)
